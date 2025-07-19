@@ -6,14 +6,14 @@
 
 ▶️How to Use➡️
    Make sure you have Python installed
-   Run the script: python brute_force_login.py
+   ➡️Run the script: python brute_force_login.py
 
 ▶️Enter➡️
   ☑️The website login URL
   ☑️A username to test
   ☑️Path to a password list file
 
-▶️Note
+▶️Note➡️
     This is for educational purposes only. Use only on systems you own or have permission to test.
 
 ▶️Requirements
