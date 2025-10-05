@@ -30,6 +30,7 @@ if __name__ == "__main__":
         
         
         
+        
         with open(wordlist_path, 'r') as f:
             passwords = f.readlines()
     except:
