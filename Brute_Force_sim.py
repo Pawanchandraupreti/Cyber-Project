@@ -26,6 +26,7 @@ if __name__ == "__main__":
     username = input('Enter username: ').strip()
     wordlist_path = input('Enter path to password list file: ').strip()
 
+
     try:
         
         with open(wordlist_path, 'r') as f:
