@@ -8,7 +8,6 @@ def brute_force_login(url, username, password_list):
             'password': password
         }
 
-
         try:
             response = requests.post(url, data=data)
             if 'Welcome' in response.text or response.status_code == 200:
