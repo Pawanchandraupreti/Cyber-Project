@@ -22,6 +22,7 @@ def brute_force_login(url, username, password_list):
     return False
 
 
+
 if __name__ == "__main__":
     target_url = input('Enter target login URL: ').strip()
     username = input('Enter username: ').strip()
