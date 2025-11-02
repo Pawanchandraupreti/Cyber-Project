@@ -35,6 +35,4 @@ if __name__ == "__main__":
         exit()
 
 
-    brute_force_login(target_url, username, passwords)
-    
-    
+    brute_force_login(target_url, username, passwords) 
