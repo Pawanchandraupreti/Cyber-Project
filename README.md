@@ -22,5 +22,3 @@
  ☑️Python 3
  ☑️Install requests: pip install requests
  
-
- 
